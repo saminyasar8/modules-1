@@ -1,0 +1,17 @@
+day-1
+1.1-What Is PHP Why Should You Learn PHP
+1.2-Installing PHP
+1.3-Installing & Configuring VS Code for PHP Development
+1.4-Writing Your First PHP Script & Running It in Browser
+
+day-2
+1.5-Printing Output in PHP echo, print, printf & sprintf
+1.6-Variables, Constants In PHP
+1.7-Variables, Constants & Data Types in PHP
+1.8- Arithmetic Operators in PHP
+ 
+ day-3
+
+1.9-Assignment, Comparison & Logical Operators Explained
+1.10 - Understanding If, Else, and Nested If-Else Conditions
+1.11-Switch Case, Ternary Operator & Nested Ternary Operator
